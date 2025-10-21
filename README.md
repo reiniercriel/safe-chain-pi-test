@@ -6,7 +6,7 @@ Install locally:
 
     python -m pip install --upgrade build
     python -m build
-    python -m pip install dist/testpkg-0.0.1-py3-none-any.whl
+    python -m pip install dist/safe-chain-pi-test-0.0.1-py3-none-any.whl
 
 Run tests:
 
