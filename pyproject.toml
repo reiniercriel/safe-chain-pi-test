@@ -18,8 +18,5 @@ classifiers = [
   "Operating System :: OS Independent",
 ]
 
-[project.urls]
-Homepage = "https://example.org"
-
 [tool.setuptools.packages.find]
 where = ["src"]
